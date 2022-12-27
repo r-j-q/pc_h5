@@ -1,0 +1,462 @@
+/* .weblink_nav {
+  height: 50px;
+} */
+
+.edm72-banner {
+  height: 693px;
+  background: url(/static/edm/img/90/edm90_bann.png) no-repeat top center;
+}
+
+.weblink_left {
+  padding-right: 0;
+}
+
+.newjob .edm90_top{
+  color:#fff;
+  text-align: center;
+}
+
+.newjob a{
+  color:#fff;
+}
+
+.newjob_a div{
+  color:#fff
+}
+
+.weblink_left .weblink_logo {
+  display: block;
+  margin-top: 15px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.weblink_right {
+  line-height: 100px;
+}
+
+.weblink_right a {
+  margin-right: 3%;
+  color: #fff;
+  font-size: 14px;
+}
+
+.newjob{
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  background-color: rgba(246, 71, 74, 1);
+}
+.newjob_a{
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  background-color: rgba(47, 61, 98, 1);
+}
+
+
+.wenlink_top {
+  padding-top: 50px;
+  height: 535px;
+}
+
+.white {
+  color: white;
+}
+
+.wenlink_top_r {
+  padding: 20px 30px;
+  width: 300px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.whiteA_a{
+  padding-top: 150px;
+}
+
+
+.f_r {
+  float: right;
+}
+
+.wenlink_top_t {
+  position: relative;
+  padding-top: 10px;
+  padding-left: 60px;
+}
+
+.in_blck {
+  display: inline-block;
+}
+
+.wenlink_top_t img {
+  top: 0;
+  left: 0;
+}
+
+.po_a {
+  position: absolute;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.f-12 {
+  font-size: 12px;
+}
+
+.gray {
+  color: gray;
+}
+
+.blue-btn {
+  margin: 15px 0 0 0;
+  width: 100%;
+  background-color: #248ad2;
+  color: #fff;
+}
+
+.blue-btn:link{
+  color: #fff;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mar_t20 {
+  margin-top: 20px;
+}
+
+.f-12 {
+  font-size: 12px;
+}
+
+.gray {
+  color: gray;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.c666 {
+  color: #666;
+}
+
+.f-24 {
+  font-size: 24px;
+}
+
+.consult {
+  border: 1px solid #a3ceec;
+}
+
+.weblink_blue {
+  color: #248ad2;
+}
+
+.mar_t15 {
+  margin-top: 15px;
+}
+
+.mar_t15 {
+    margin-top: 15px;
+}
+
+.pad_tb10 {
+  padding: 10px 0;
+}
+
+.weblink_blue {
+  color: #248ad2;
+}
+
+.edm90-title {
+  margin: 20px 0;
+  padding: 5px 0;
+}
+
+.text {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.font_18{
+  font-size: 18px;
+}
+
+.marg{
+  margin: 30px 0;
+  display: inline-block;
+  color: #515151;
+}
+
+.marg_30{
+  margin: 30px 0;
+}
+
+.content_s{
+  margin-top: 10px;
+  letter-spacing: 1.8px;
+}
+
+.edm90_ban_2{
+  height: 657px;
+  background: url(../img/90/edm90_ban_2.png) no-repeat center center;
+  margin-top: -20px;
+}
+
+.dis_block{
+  display: block;
+}
+
+.col_ff6c00{
+  color: #ff6c00;
+}
+
+.edm90-live {
+  text-align: center;
+}
+
+.edm90-live-slide .day {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.edm90-live-slide {
+  display: inline-block;
+  padding: 0 5px;
+  width: 12%;
+  background: #fff;
+  margin-top: 10px;
+  margin-left: 4px;
+  color: #000;
+  cursor: pointer;
+}
+
+.edm90-tab{
+  text-align: center;
+}
+
+.fx_ab-a {
+  background: #1565d1 !important;
+  color: #fff !important;
+}
+
+.back_col{
+  background-color: #f1f1f1;
+}
+
+.edm90_ban_3{
+  height: 328px;
+  background: url(../img/90/edm90_ban_3.png) no-repeat center center;
+  margin-top: -250px;
+}
+
+.edm62-brand {
+  position: relative;
+  padding: 10px 0;
+}
+
+.edm62-brand .box {
+  position: relative;
+  z-index: 1;
+  margin-top: -5px;
+}
+
+.edm62-brand .box a {
+  float: left;
+  padding: 5px;
+  width: 16.111%;
+}
+
+.edm62-brand .box a img {
+  max-width: 100%;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+}
+
+.edm90_ban_4{
+  height: 800px;
+  background: url(../img/90/edm90_ban_4.png) no-repeat top center ;
+  background-size: 100%  100%;
+}
+.edm90_ban_5{
+  height: 1084px;
+  background: url(../img/90/edm90_ban_5.png) no-repeat top center #dce0eb;
+  background-size: 100%  100%;
+}
+
+.mar_top50{
+  margin-top: 50px;
+}
+
+
+.ban_5{
+  text-align: center;
+  font-size:1rem;
+  color: #ff6c00;
+  margin: 10px 0;
+}
+.ban_5_A{
+  font-size:20px;
+  width: 56%;
+  margin: auto;
+}
+
+.main {
+  padding-bottom: 0px;
+}
+/* /static/edm/img/90/edm90_g.png */
+.vip{
+  height: 328px;
+  background: url(../img/90/edm90_g.png) no-repeat center center;
+}
+
+.school{
+  height: 358px;
+  background: url(../img/90/edm90_ban_5_A.png) no-repeat center center;
+  background-size: 100%;
+}
+
+@media screen and (min-width: 1200px){
+
+  .weblink_right {
+    padding-left: 0;
+  }
+  
+  .newjob{
+    font-size: 15px;
+  }
+
+}
+
+.time{
+  display: none;
+}
+@media screen and (max-width: 768px){
+  
+  .newjob ,.newjob_a{
+    font-size: 14px;
+  }
+  .weblink_nav , .wenlink_top{
+    display: none;
+  }
+
+  .edm72-banner {
+    height: 7.5rem;
+    background: url(/static/edm/img/90/edm90_bann_m.png) no-repeat top center;
+    background-size:100% ;
+  }
+  .edm90-title{
+    text-align: center;
+    margin-top: -10px;
+  }
+  
+  .text {
+    font-size: .8rem;
+  }
+  
+  .font_16 {
+    font-size: 16px;
+  }
+  .edm90_ban_2 {
+    height: 6rem;
+    background: url(../img/90/edm90_ban_2_m.png) no-repeat center center;
+    background-size:100% ;
+    margin-top: 0px;
+  }
+
+  .vip{
+    height: 4rem;
+    background: url(../img/90/edm90_g_m.png) no-repeat center center;
+    background-size:100% ;
+  }
+  
+  .edm90-live-slide{
+    width: 23%;
+  }
+  .edm90-live-slide .day {
+    font-size: 18px;
+  }
+
+  .edm62-brand .box a {
+    width:25%;
+  }
+  .edm90_ban_4{
+    height: auto;
+    background: url() no-repeat center center;
+  }
+  
+  .ban_5{
+    font-size: .5rem;
+    font-weight: bold;
+  }
+
+  .ban_5_A {
+    font-size: 15px;
+    width: 93%;
+    margin: auto;
+    text-align: center;
+}
+
+.edm90_ban_5 {
+  height: auto;
+  background: url() center top / 100% 100% no-repeat rgb(255, 255, 255);
+}
+.school {
+  height:14rem;
+  background: url(../img/90/edm90_ban_5_A_m.png) center center / 100% no-repeat;
+}
+
+.time{
+  display: block;
+}
+
+.timea {
+  text-align: center;
+}
+
+.time-a {
+  width: 45%;
+  float: left;
+  background-color: rgb(229, 242, 255);
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+.time-a a{
+  color: #1989fa;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.time-b {
+  width: 55%;
+  background-color: #fc7009;
+
+  font-size: 16px;
+  float: left;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+
+.time-b a{
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+}
+
+.width_A{
+  background-color: #ffffff;
+}

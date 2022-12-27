@@ -1,0 +1,335 @@
+/* .cont_m .col-md-6{
+    padding: 10px;
+} */
+body{
+    background-color: #f6f6f6;
+    
+}
+.banner_gs {
+    height: 730px;
+    background: url(/static/enterprise/img/suyx_bg.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.cont_m div{
+    text-align: center;
+}
+
+
+.cont_m_a .col-md-4 div{
+    background-color: #f3f3f3; 
+    padding: 5px 15px 0 15px;
+}
+.txt_cen {
+    text-align: center;
+    margin: 84px 0 45px !important;
+    color:#272e77;
+}
+
+
+
+
+.text_left{
+    text-align: left;
+}
+.asb {
+    font-size: 20px;
+    margin: 20px 0;
+    font-weight: bold;
+}
+.bsb {
+    font-size: 18px;
+    padding: 0 0px;
+}
+.news_list_text {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    margin: 8px 0;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    /* margin-bottom: 25px; */
+}
+
+.text_m{
+    text-align: center;
+    margin-top: -70px;
+}
+
+
+.ent_zt_a{
+    display: none;
+}
+.cont_m_a{
+    display: inline-block;
+}
+.cont_m_b{
+    display: inline-block;
+    background:#fff;
+}
+.cont_m_c{
+    text-align: left !important;
+}
+.cont_m_d{
+    margin: 40px 0;
+}
+.cont_m_e{
+    text-align: left !important;
+    margin: 70px 0;
+    margin-left: -60px;
+}
+.cont_m_f{
+    text-align: left !important;
+    font-size: 28px;
+    font-weight: bold;
+}
+.cont_m_g{
+    text-align: left !important;
+    font-size: 16px;
+    width: 370px;
+    margin-top: 5px;
+}
+.taozhuang li {
+    position: relative;
+    float: left;
+    margin-right: 1%;
+    width: 24%;
+    text-align: center;
+}
+.tz_a img {
+    display: inline-block;
+    padding: 20px 0;
+    width: 25%;
+}
+.border_a{
+    width: 40px;
+    border-bottom:2px solid #ffa100;
+    margin: 15px auto;
+    margin-top: -5px;
+}
+.taozhuang_list{
+    font-size: 28px;
+    font-weight: bold;
+}
+.pad_t15{
+    margin-top: 10px;
+}
+.taozhuang{
+    margin-bottom: 70px;
+    padding: 0 0px;
+    margin-left: -20px;
+}
+/* .suyx_img{
+max-width: 100%;
+} */
+.ent_title .text:before {
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    width: 100%;
+    height: 10px;
+    background: url(../img/x_C.png) no-repeat top center;
+    content: '';
+}
+.suyx_bot_a{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_a.png) no-repeat top center;
+}
+.suyx_bot_b{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_b.png) no-repeat top center;
+}
+.suyx_bot_c{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_b.png) no-repeat top center;
+}
+.suyx_bot_d{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_b.png) no-repeat top center;
+}
+.suyx_bot_e{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_e.png) no-repeat top center;
+}
+.suyx_bot_f{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_f.png) no-repeat top center;
+}
+.suyx_bot_g{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_g.png) no-repeat top center;
+}
+.suyx_bot_h{
+    width: 100%;
+    height: 350px;
+    background: url(../img/suyx_bot_h.png) no-repeat top center;
+}
+.taozhuang ul li div span{
+    color: #fff;
+    font-size: 28px;
+    margin-top: 210px;
+    display: inline-block;
+}
+
+/* .botn_a{
+    height: 220px;
+    background: url(../img/suyx_bom.png) no-repeat top center;
+} */
+.botn_b{
+    display: none;
+}
+.wh_t{
+    background: #ffffff;
+}
+.ba_ma{
+    background: #fff;
+    margin-top: 50px;
+}
+.suyx_bot_a_m{
+    display: none;
+}
+.suyx_img_m{
+    display: none;
+}
+.suyx_img{
+    display: block;
+}
+@media screen and (max-width: 768px){
+    .disp_m{
+        display: none;
+    }
+    .color_f_m{
+        margin-top: -50px;
+    }
+   
+    .suyx_img_m{
+        max-width: 100%;
+        display: block;
+    }
+    .taozhuang {
+        margin-bottom: 20px;
+        padding: 0 0px;
+        margin-left: 0px;
+    }
+    .wh_t {
+        background: #ffffff00;
+    }
+    .botn_a{
+        display: none;
+    }
+    .botn_b{
+        height: 3rem;
+        background: url(../img/suyx_bom_m.png) no-repeat top center;
+        background-size: 100% 100%;
+        display: block;
+    }
+    .ent_title .text {
+        font-size: 19px;
+        width: 50%;
+    }
+    .taozhuang li:nth-child(odd) {
+        margin-right: 0;
+        margin-left: 5%;
+    }
+    .taozhuang li {
+        float: left;
+        margin: 0 6% 4% 9%;
+        width: 40%;
+    }
+    body{
+        background-color: #f6f6f6;
+    }
+    
+    .text_m a {
+        width: 35%;
+        height: 35px;
+        display: inline-block;
+        margin: 12px;
+        line-height: 35px;
+        color: #5177f3;
+        border-radius: 50px;
+        border: 1px solid #5177f3;
+    }
+    .ent_zt_a{
+        display: block;
+    }
+    .banner_gs {
+        height: 435px;
+        background: url(/static/enterprise/img/suyx_bg_m.png) no-repeat top center;
+        background-size: 100% 100%;
+    }
+    .cont_m_c{
+        display: block;
+        margin-left: -65px;
+    }
+    .cont_m_d{
+        width: 88px;
+        display: inline-block;
+        margin-top: 10px;
+    }
+    .cont_m_e{
+        margin: 0px 0;
+        margin-top: -85px;
+        margin-left: 55px;
+        margin-right: -40px;
+    }
+    .cont_m_g {
+        text-align: left !important;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .cont_m_d {
+        margin: 0px 20px;
+        display: inline-block;
+        /* margin-left: 165px; */
+    }
+    .cont_m_a{
+        background: #fff;
+        /* height: 106px; */
+        position: relative;
+        /* width: 100%; */
+        padding-right: 45px;
+        overflow: inherit;
+        padding: 15px 25px;
+        margin-bottom: 25px;
+    }
+    .cont_m_c {
+        text-align: left !important;
+    }
+    .cont_m_b {
+        display: inline-block;
+        background:#fff0;
+    }
+    .cont_m_g{
+        overflow: hidden;
+        width: 97%;
+    }
+    .cont_m_z{
+        margin-bottom: 10px;
+    }
+    .ba_ma{
+        background: #fff;
+        margin-top: 30px;
+    }
+    .gsje-live{
+        margin-top: -50px;
+    }
+    .suyx_bot_a {
+        width: 100%;
+        height: 350px;
+        background: url(../img/suyx_bot_a.png) no-repeat top center;
+    }
+    .suyx_bot_a_m{
+        margin-bottom: 12px;
+    }
+    .suyx_img{
+        display: none;
+    }
+   
+}

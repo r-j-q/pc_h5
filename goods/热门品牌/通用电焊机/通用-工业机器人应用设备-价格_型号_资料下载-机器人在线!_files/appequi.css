@@ -1,0 +1,112 @@
+.clasbox_left {
+  padding: 2px 3px 2px 8px;
+  height: 40px;
+  color: #777;
+  font-size: 15px;
+}
+  .container_AB {
+      padding-right: 15px;
+      padding-left: 15px;
+  }
+  .classi_list {
+      border-bottom: 1px solid #eee ;
+      line-height: 40px;
+  }
+  .classi_list .clasbox_right a {
+      display: inline-block;
+      margin-left: 0px;
+      padding: 0 8px;
+      min-width: 5%;
+      border-radius: 3px;
+      color: #000;
+      font-size: 13px;
+      /* font-weight: 600; */
+  }
+  .row_Aab{
+      margin-top: 20px;
+  }
+  .classi_list .clasbox_application {
+    height: auto;
+  }
+  .classi_list .clasbox_application a{
+  display: inline-block;
+  margin-left: 7px !important;
+  padding: 0 8px;
+  min-width: 5%;
+  border-radius: 3px;
+  color: #000;
+  font-size: 13px;
+  
+  /* font-weight: 600; */
+}
+
+  @media screen and (max-width: 768px){
+      .row_A{
+          display: none;
+      }
+      .jiqiren_Left {
+          float: none;
+          width: 100%;
+      }
+      .container_AB{
+          padding-right: 0px;
+          padding-left: 0px;
+      }
+      .video_industry{
+          padding-top: 0px;
+      }
+      .buttom_new{
+          display:none;
+      }
+      .row_Aab{
+          margin-top: 0px;
+      }
+      .brand_text {
+          color: #248ad2;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 30px;
+          display: inline-block;
+      }
+      .video_ul-home{
+          margin: 0 -8px;
+          padding-top: 10px;
+      }
+      .classification .classi_list .clasbox_right a{
+          line-height: 25px;
+          margin: 3px 3px;
+          border: 1px solid #d2d2d2 ;
+          border-radius: 20px;
+          font-size: 12px;
+      }
+      .classi_list .clasbox_right .cur {
+          border: 1px solid #e4393c !important;
+          background: #fff;
+          color: #e4393c !important;
+          font-weight: 500 !important;
+          font-size: 12px !important;
+      }
+      .classi_list .clasbox_right, .classification .clasbo_pinpai .clasbox_right {
+          padding-right: 0;
+          height: auto;
+          line-height: 0 !important;
+      }
+      .appeq-0 a{
+        width: 45% !important;
+      }
+      .appeq-1 a{
+        width: 30% !important;
+      }
+      /* .brand_conditions_Aa-m{
+        display: block !important;
+        margin-top:20px;
+      } */
+      .brand_conditions .span {
+        margin-top: 5px;
+        padding: 1px 5px 1px 7px;
+        width: 47%;
+        margin-bottom: 0px;
+        margin-left: 6px;
+        margin-right: 0px;
+      }
+  }

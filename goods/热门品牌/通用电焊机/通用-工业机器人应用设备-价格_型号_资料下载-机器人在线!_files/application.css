@@ -1,0 +1,395 @@
+/*通用 */
+
+.f_l {
+    float: left;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+dl {
+    margin-bottom: 0
+}
+
+.f-16 {
+    font-size: 16px;
+}
+
+.f-14 {
+    font-size: 14px;
+}
+
+.f-12 {
+    font-size: 12px;
+}
+
+.c666 {
+    color: #666;
+}
+
+.gray {
+    color: gray;
+}
+
+.po_a {
+    position: absolute;
+}
+
+.in_blck {
+    display: inline-block
+}
+
+.btn-red {
+    border: red 1px solid;
+    background: #e81f18;
+    color: #FFFFFF;
+}
+
+.btn-red:hover,
+.btn-red:link,
+.btn-red:focus,
+.btn-red.focus {
+    background: #ff180f;
+    color: #fff;
+}
+
+.mar15 {
+    margin-top: 15px;
+}
+
+.blueColor {
+    color: #3b92df;
+}
+
+.blackColor {
+    color: #333;
+}
+
+.margin20 {
+    margin: 20px 0;
+}
+
+.border0 {
+    border: 0;
+}
+
+
+/* 筛选 */
+
+.hot-brand {
+    float: none;
+    margin-left: 8px;
+    width: 100%;
+}
+
+.applocationLi .btn-post {
+    margin-top: 45px;
+    padding: 7px 30px;
+    border-radius: 5px;
+}
+
+.subnab_textLI {
+    margin-bottom: 5px;
+}
+
+.subnav_header dl dd.cur {
+    background-color: #3b92df;
+    color: #FFFFFF;
+}
+
+.subnav_text .cur {
+    color: #3b92df;
+}
+
+.video_industry .applocationLi {
+    margin: 15px 0;
+    padding: 15px 0;
+    border: 1px solid #eee;
+}
+
+.video_industry .applocationLi:hover {
+    box-shadow: 0 0 8px rgba(0, 0, 0, .1);
+}
+
+.video_industry .applocationLi img {
+    max-width: 100%;
+}
+
+.video_industry .applocationLi h3 {
+    line-height: 1.3;
+}
+
+
+/* 详情 */
+
+.robotic_head {
+    background-color: #FFFFFF;
+}
+
+.robotic_head .btn-red {
+    padding: 0;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    line-height: 40px;
+}
+
+.app_showDiv {
+    padding: 15px;
+}
+
+.app_show {
+    display: block;
+    padding: 5px 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+.robotic_ul dt {
+    width: auto;
+}
+
+
+
+.app_showImg .app_showDivImg {
+    margin-top: 15px;
+    padding: 5px;
+    border: 1px solid #dedede;
+}
+
+.app_showImg .app_showDivImg img {
+    max-width: 100%;
+}
+
+.app_showImg .app_showDivImg p {
+    margin: 10px 0 5px 0;
+}
+
+.border0 h2 {
+    border: 1px solid #dedede;
+}
+
+.swiper-pagination-bullet-active {
+    background: rgba(0, 0, 0, .8)
+}
+
+.session dd {
+    float: left;
+    padding: 5px 0;
+    width: 50%;
+    color: #666;
+}
+
+.appequi-home {
+    position: relative;
+}
+
+.appequi-home-icon {
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.appequi-home-icon .swiper-wrapper {
+    flex-wrap: wrap;
+}
+
+.appequi-home-icon .a {
+    display: flex;
+    float: left;
+    align-items: center;
+    padding: 5px 10px;
+    width: 12.5%;
+    border-top: 1px solid #eee;
+    border-left: 1px solid #eee;
+    cursor: pointer;
+}
+
+.appequi-home-icon .a:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, .1);
+}
+
+.appequi-home-icon .a .iconfont {
+    margin-right: 10px;
+    color: gray;
+    font-weight: bold;
+    font-size: 36px;
+}
+.appequi-home-icon .a:hover .iconfont {
+    color:#248ad2;
+}
+
+.appequi-home-slide-nav {
+    position: fixed;
+    top: 50%;
+    border-top: 1px solid #eee;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+    transform: translate(-110%, -50%);
+}
+
+.appequi-home-slide-nav a {
+    display: block;
+    padding: 8px 12px;
+    border: 1px solid #eee;
+    border-top: 0;
+    text-align: center;
+}
+
+.appequi-home-slide-nav a.cur {
+    background: #248ad2;
+    color: #fff;
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .hot-brand-tap {
+        font-size: .3rem;
+        line-height: 1.4;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .hot-brand-tap {
+        width: 12%;
+        font-size: .23rem;
+        line-height: 1.4;
+    }
+
+    .btn-red {
+        top: auto;
+        bottom: 0;
+    }
+
+    .video_industry .applocationLi {
+        padding: 10px;
+        border: 0;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+    }
+
+    .video_industry .applocationLi h3 {
+        margin: 0 0 5px 0;
+        font-size: .42rem;
+    }
+
+    .video_industry .applocationLi .text {
+        overflow: hidden;
+        height: 3em;
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .video_industry .applocationLi .mar15 {
+        margin-top: 5px;
+    }
+
+    .applocationLi .btn-post {
+        display: none;
+    }
+
+    .robotic_head .contact {
+        text-align: center;
+    }
+
+    .models-text {
+        display: inline-block;
+    }
+
+    .session dd {
+        width: 100%;
+    }
+
+    .robotic_middle .h1_title {
+        margin: 0;
+    }
+
+    .robotic_middle .h1_title h1 {
+        font-size: .5rem;
+    }
+
+    .editor-box {
+        line-height: 2;
+    }
+
+    .editor-box p {
+        margin: 8px 0;
+    }
+
+    .app_showDiv {
+        padding: 0;
+    }
+
+    .robotic_right {
+        clear: both;
+    }
+
+    .app_showImg .app_showDivImg {
+        float: left;
+        width: 48%;
+    }
+
+    .app_showImg .app_showDivImg:nth-child(2n+1) {
+        margin-right: 4%;
+    }
+
+    .hot-brand {
+        margin-left: 0;
+    }
+
+    .appequi-home .video_ul li:nth-child(n+4) {
+        display: none;
+    }
+
+    .appequi-home .video_right_title_border .type {
+        margin-left: 5px;
+    }
+
+    .appequi-home .video_right_title_border .type .ser {
+        margin: 0;
+    }
+
+    .appequi-home .video_right_title_border .type .ser:nth-child(n+4) {
+        display: none;
+    }
+
+    .appequi-home .ad_img a {
+        margin: 0;
+    }
+
+    .appequi-home-icon {
+        margin-top: 0;
+    }
+
+    .appequi-home-icon .a {
+        flex-direction: column;
+        margin: 0;
+        font-size: .3rem;
+    }
+
+    .appequi-home-icon .a .iconfont {
+        margin: 0;
+    }
+
+    #swiper-pagination-icon {
+        position: static;
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    #swiper-pagination-icon .swiper-pagination-bullet {
+        margin: 0 3px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .robotic_head .col-md-4 {
+        width: 33.3333%;
+    }
+    @media screen and (max-width: 1399px) {
+        .appequi-home-slide-nav{
+            display: none !important;
+        }
+        }
+}

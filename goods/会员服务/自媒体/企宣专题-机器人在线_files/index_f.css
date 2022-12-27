@@ -1,0 +1,293 @@
+.ba_ma{
+    background-color: #f6f6f6;
+}
+.ba_ma_A{
+    background-color: #f6f6f6;
+}
+.banner_gs {
+    height: 740px;
+    background: url(/static/enterprise/img/zmt_bg.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_bg {
+    height: 663px;
+    background: url(/static/enterprise/img/zmt_bg_a.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_f_a{
+    height: 242px;
+    background: url(/static/enterprise/img/zmt_f_a.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_f_b {
+    height: 242px;
+    background: url(/static/enterprise/img/zmt_f_b.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_f_c {
+    height: 242px;
+    background: url(/static/enterprise/img/zmt_f_c.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_f_a_f{
+    font-size: 24px;
+}
+.zmt_f_p_t{
+    padding: 0 95px;
+    padding-top: 60px;
+}
+.zmt_f_p_t img{
+    margin: 0 5px;
+}
+.zmt_f_p_b{
+    width: 50px;
+     display: inline-block;
+     border-bottom: 2px solid #3e6bf2;
+     margin: 0 50px;
+     margin-top: 20px;
+}
+.zmt_f_t_A{
+    width: 215px;
+    text-align: center;
+    margin-left: -6px;
+    margin-top: 15px;
+    font-size: 16px;
+    color: #595959;
+}
+.zmt_sj{
+    text-align: center;
+    font-size: 17px;
+    width: 910px;
+    margin: auto;
+    margin-top: -80px;
+}
+.zmt_sj_a{
+    margin-top: 25px;
+}
+.zmt_ma_t{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.zmt_bg_nav{
+    height: 563px;
+    background: url(/static/enterprise/img/zmt_bg_nav.png) no-repeat top center;
+    background-size: 100% 100%;
+    margin-top: -70px;
+}
+.img_wid {
+    width: 100% !important;
+}
+.zmt_hs_a{
+    height: 320px;
+    background: url(/static/enterprise/img/zmt_hs_a.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_hs_b{
+    height: 320px;
+    background: url(/static/enterprise/img/zmt_hs_b.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_hs_c{
+    height: 320px;
+    background: url(/static/enterprise/img/zmt_hs_c.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_hs_d{
+    height: 320px;
+    background: url(/static/enterprise/img/zmt_hs_d.png) no-repeat top center;
+    background-size: 100% 100%;
+}
+.zmt_hs_a_title{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 145px;
+    padding-bottom: 15px;
+}
+.zmt_hs_a_content{
+    width: 210px;
+    margin: auto;
+    font-size: 16px;
+    text-align: center;
+}
+.zmt_hs{
+    margin-top: -60px;
+}
+.zmt_bom{
+    height: 211px;
+    background: url(/static/enterprise/img/zmt_bom.png) no-repeat top center;
+    background-size: 100% 100%;
+    margin-top: 30px;
+}
+.ent_title .text {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 40px;
+    color:#111644;
+}
+.fon_t28{
+    font-size: 28px;
+}
+.bm_f50{
+    background: #fff;
+    margin-top: 80px;
+}
+@media screen and (max-width: 768px){
+    .banner_gs {
+        height: 465px;
+        background: url(/static/enterprise/img/zmt_bg_m.png) no-repeat top center;
+        background-size: 100% 100%;
+    }
+    .zmt_f_p_t {
+        padding: 0 15px;
+        padding-top: 10px;
+    }
+    .zmt_f_p_b {
+        width: 50px;
+        display: block;
+        border-bottom: 2px solid #3e6bf2;
+        margin: 0 50px;
+        margin-top: 20px;
+    }
+    .zmt_f_t_A {
+        width: 350px;
+        text-align: left;
+        margin-top: 15px;
+        font-size: 16px;
+        color: #595959;
+        padding-left: 50px;
+        padding-right: 15px;
+    }
+    .zmt_f_a{
+        height: 160px;
+        background:#fff;
+        background-size: 100% 100%;
+    }
+    .zmt_f_b {
+        height: 160px;
+        background:#fff;
+        background-size: 100% 100%;
+    }
+    .zmt_f_c {
+        height: 160px;
+        background:#fff;
+        background-size: 100% 100%;
+    }
+    .row {
+        border-top: 0px solid #f6f5f5;
+        background: #fff;
+    }
+    .col-A {
+        padding-right: 8px;
+        border-bottom: 3px solid #f1f1f1;
+    }
+    .ba_ma {
+        margin-top: 20px;
+    }
+    .zmt_sj {
+        text-align: center;
+        font-size: 17px;
+        width: 100%;
+        margin: auto;
+        margin-top: 23px;
+    }
+    .zmt_sj_a {
+        height: 23rem;
+        background: url(/static/enterprise/img/zmt_sj_a_m.png) no-repeat top center;
+        background-size: 110% 100%;
+    }
+    .zmt_bg_nav {
+        height: 0px;
+        background: #fff;
+        background-size: 100% 100%;
+    }
+    .fon_t28{
+        display: none;
+    }
+    .ent_title .text {
+        position: relative;
+        display: inline-block;
+        font-weight: bold;
+        font-size: 23px;
+        color: #111644;
+        margin-bottom: 15px;
+    }
+    .zmt_hs_a {
+        height: 4.6rem;
+        background: url(/static/enterprise/img/zmt_hs_a_m.png) no-repeat top center;
+        background-size: 100% 100%;
+    }
+    .zmt_hs_b{
+        height: 4.6rem;
+        background: url(/static/enterprise/img/zmt_hs_b_m.png) no-repeat top center;
+        background-size: 100% 100%;
+    }
+    .zmt_hs_c{
+        height: 4.6rem;
+        background: url(/static/enterprise/img/zmt_hs_c_m.png) no-repeat top center;
+        background-size: 100% 100%;
+    }
+    .zmt_hs_d{
+        height: 4.6rem;
+        background: url(/static/enterprise/img/zmt_hs_d_m.png) no-repeat top center;
+        background-size: 100% 100%;
+    }
+    .zmt_hs_a_title {
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        padding-top: 65px;
+        padding-bottom: 6px;
+    }
+    .zmt_hs_a_content {
+        width: 115px;
+        margin: auto;
+        font-size: 12px;
+        text-align: center;
+    }
+    .zmt_form {
+        height: 350px;
+        background: url(/static/enterprise/img/zmt_form_m.png) no-repeat top center;
+        background-size: 100% 100%;
+        margin-top: 30px;
+    }
+    .h{
+        display: none;
+    }
+    .zmt_sj_a_m_A{
+        height: 365px;
+        background: url(/static/enterprise/img/zmt_sj_a_m_A.png) no-repeat top center;
+        background-size: 110% 100%;
+        margin-top: 25px;
+    }
+    .qx-brand .box a {
+        float: left;
+        padding: 20px;
+        width: 32.6%;
+    }
+    .boot_a {
+        display: inline-block;
+        width: 158px;
+        height: 40px;
+        line-height: 40px;
+        color: rgb(62, 107, 242);
+        border-width: 1px;
+        border-style: solid;
+        border-color: rgb(62, 107, 242);
+        border-image: initial;
+        border-radius: 20px;
+    }
+    .zmt_bom{
+        height: 130px;
+        background: url(/static/enterprise/img/zmt_bom_m.png) no-repeat top center;
+        background-size: 100% 100%;
+        margin-top: 30px;
+    }
+    .box{
+        margin-top: -45px;
+    }
+    .zmt_hz{
+        margin-top: 0px !important;
+    }
+}

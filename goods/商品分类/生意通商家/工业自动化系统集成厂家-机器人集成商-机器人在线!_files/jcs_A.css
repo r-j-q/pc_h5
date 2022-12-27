@@ -1,0 +1,119 @@
+.video_industry h2 .colora_A {
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  color: #a1a1a1 !important;
+  margin-right: -15px;
+}
+.fon_awm {
+  text-align: center;
+  width: 100%;
+  margin-top: -5px;
+  display: inline-block !important;
+}
+.title {
+  text-align: center;
+}
+.title .omg_AB {
+  width: 120px !important;
+  height: 60px;
+}
+.fon_uzi_a {
+  font-size: 18px !important;
+  margin-left: 0;
+  display: block !important;
+  margin: 10px 0;
+  font-weight: bold;
+}
+.video_industry h2 span {
+  background-color: transparent;
+  color: #333;
+  font-weight: bold;
+  font-size: 14px !important;
+}
+.brn_logl_a_A {
+  text-align: center;
+  border-radius: 5px;
+  color: #555555;
+}
+.oyun {
+  line-height: 25px !important;
+  margin: 0 5px;
+}
+.brn_logl_span {
+  font-size: 12px !important;
+  color: #555555;
+  margin-left: 2px;
+}
+.video_industry_title .ted_A {
+  text-decoration: underline;
+}
+.foot_middle {
+  text-align: left;
+}
+.classification {
+  background: #f5f5f5;
+  border: 0px solid #eee;
+}
+.classi_list .clasbox_right a:hover {
+  color: #e4393c;
+}
+.video_industry_A span .ted_A:hover {
+  color: #e4393c;
+}
+.classi_list .clasbox_right .cur,
+.classi_list .clasbox_right .cur:hover {
+  background-color: #e6002000;
+  color: #e60020;
+}
+.video_industry_title samp .jsc_vip {
+  font-size: 13px;
+  background: red !important;
+  display: inline-block;
+  width: 124px;
+  height: 40px;
+  line-height: 40px;
+  color: #fff !important;
+  margin-right: 0px !important;
+}
+.video_industry h2 em,
+.video_industry h2 label,
+.video_industry h2 samp {
+  /* display: inline-block; */
+  float: right;
+  padding-top: 0px;
+  font-size: 12px;
+  line-height: 20px;
+}
+.btn-default {
+  color: #333 !important;
+  background-color: #fff !important;
+  border-color: #ccc !important;
+}
+.classi_list:nth-child(n + 2) .clasbox_right .cur:hover {
+  color: #e60020;
+}
+@media screen and (max-width: 768px) {
+  .video_industry {
+    position: relative;
+    padding-top: 40px !important;
+  }
+  .main {
+    margin-top: 10px;
+  }
+  .integratorUl {
+    padding-top: 55px;
+  }
+  .integratorUl li .a {
+    display: block;
+    padding: 0px 0px;
+    border: 0px solid #ebebeb;
+    background-color: #ffffff;
+  }
+  .integratorUl li a {
+    display: flex;
+    padding: 15px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(0 0 0 / 10%);
+    width: 9.2rem;
+  }
+}
